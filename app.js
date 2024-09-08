@@ -1,5 +1,5 @@
 console.log('Hello, World!');
-let name = "Alexa Mae Gazo";``
+let name = "Alexa Mae Gazo";
 console.log('My name is' + name);
 
 // Variable
