@@ -26,10 +26,10 @@ let w = 39;
 let u = 20;
 
 //Use comparison operator and store the reuslts in varaiables 
-let isWGreaterThanU = x > y;
-let isWLessThanU = x > y;
-let isWEqualToU = x === y;
-let isWNotEqualtoU = x !== y;
+let isWGreaterThanU = w > u;
+let isWLessThanU = w > u;
+let isWEqualToU = w === u;
+let isWNotEqualtoU = w !== u;
 
 console.log("Is W greater than U?");
 console.log("Is W less than U?");
